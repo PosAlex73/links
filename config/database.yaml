@@ -1,0 +1,4 @@
+dbname: links
+port: 3306
+login: root
+password: root
